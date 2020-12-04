@@ -17,3 +17,4 @@ El dataset de estudio fue obtenido del hospital de la universidad de Wisconsin d
 
 **Enlace del dataset**
 El dataset utilizado se puede descargar de :https://www.kaggle.com/merishnasuwal/breast-cancer-prediction-dataset
+![cancer-mama](https://user-images.githubusercontent.com/75496822/101198516-92419100-3631-11eb-8aed-fbf84beef8c3.jpg)
